@@ -37,3 +37,10 @@
 ## 📈Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMF545&show_icons=true&theme=tokyonight)
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoMF545/RodrigoMF545/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoMF545/RodrigoMF545/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RodrigoMF545/RodrigoMF545/output/github-contribution-grid-snake.svg">
+</picture>
+
